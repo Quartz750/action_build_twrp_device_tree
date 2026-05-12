@@ -1,0 +1,2 @@
+D:/刷机备份-基带等/MOTO[[:space:]]G100国行最新ROM/V2VT35.34-33-25/recovery.img filter=lfs diff=lfs merge=lfs -text
+*.img filter=lfs diff=lfs merge=lfs -text
